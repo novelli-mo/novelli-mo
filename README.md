@@ -1,1 +1,1 @@
-<h2> hi there, I'm Mônica <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExY29rcnd5cGt4OTJmZzYzaTNrMnVtb2pqNnFvMWg2enkzcXd2cHFkNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/8AZKrYCHtOVOWGIQld/giphy.gif" width="50"></h2>
+<h2> Hi there! I'm Mônica <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExY29rcnd5cGt4OTJmZzYzaTNrMnVtb2pqNnFvMWg2enkzcXd2cHFkNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/8AZKrYCHtOVOWGIQld/giphy.gif" width="50"></h2>
